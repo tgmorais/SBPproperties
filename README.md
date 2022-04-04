@@ -8,7 +8,7 @@ This repository includes the algorithm (Random Forest) that was developed to est
 - Nitrogen content (g/kg)
 - Phosphorus content (g/kg)
 
-Used scripts are in folder "models" and the best trained models are in folder "trained_models"
+Used scripts are in folder "train_models" and the best trained models are in folder "models"
 
 Two cross-valiadtion approaches were used, whcih lead to set of models:
 - Random cross-validation (RN-CV): random approach with random selection of the folds
