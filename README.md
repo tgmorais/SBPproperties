@@ -2,7 +2,7 @@
 
 © Copyright 2022 Tiago Morais
 
-This algorithm (Random Forest) was developed to estimate pasture properties of Portuguese Sown biodiverse pastures rich in legumes (SBP) derived from Sentinel-2 data. The considered properties are:
+This repository includes the algorithm (Random Forest) that was developed to estimate pasture properties of Portuguese Sown biodiverse pastures rich in legumes (SBP) derived from Sentinel-2 data. The considered properties are:
 - Standing biomass (kg/ha)
 - Legumes fraction (-)
 - Nitrogen content (g/kg)
