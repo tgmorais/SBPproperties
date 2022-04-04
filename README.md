@@ -21,5 +21,12 @@ Two cross-valiadtion approaches were used, whcih lead to set of models:
 - Prepare input data (see raw data file used in "Raw data folder"
 - Use the individual models in the "models" folder using the input data file
 
+# Example of application of the models
+![Results](results.png)
+
+# Context of raw data file
+![Data Collection](context.png)
+
+
 # Reference
 - Morais et al. (2022). **Characterization of Portuguese sown rainfed grasslands using remote sensing and machine learning.** *Precision Agriculture X(XX)*, XXX-XXX; (https://doi.org/10.1007/XX)
